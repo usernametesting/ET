@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\bin\Debug\net6.0\ETAppApi.Domain.deps.json
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\bin\Debug\net6.0\ETAppApi.Domain.dll
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\bin\Debug\net6.0\ETAppApi.Domain.pdb
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\obj\Debug\net6.0\ETAppApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\obj\Debug\net6.0\ETAppApi.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\obj\Debug\net6.0\ETAppApi.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\obj\Debug\net6.0\ETAppApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\obj\Debug\net6.0\ETAppApi.Domain.dll
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\obj\Debug\net6.0\refint\ETAppApi.Domain.dll
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\obj\Debug\net6.0\ETAppApi.Domain.pdb
+C:\Users\user\Desktop\ET\ETAppApi\Core\ETAppApi.Domain\obj\Debug\net6.0\ref\ETAppApi.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\bin\Debug\net6.0\ETAppApi.Infrastructure.deps.json
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\bin\Debug\net6.0\ETAppApi.Infrastructure.dll
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\bin\Debug\net6.0\ETAppApi.Infrastructure.pdb
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\bin\Debug\net6.0\ETAppApi.Application.dll
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\bin\Debug\net6.0\ETAppApi.Domain.dll
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\bin\Debug\net6.0\ETAppApi.Application.pdb
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\bin\Debug\net6.0\ETAppApi.Domain.pdb
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ETAppApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ETAppApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ETAppApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ETAppApi.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ETAppApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ETAppApi.6E2711E1.Up2Date
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ETAppApi.Infrastructure.dll
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\refint\ETAppApi.Infrastructure.dll
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ETAppApi.Infrastructure.pdb
+C:\Users\user\Desktop\ET\ETAppApi\Infrastructure\ETAppApi.Infrastructure\obj\Debug\net6.0\ref\ETAppApi.Infrastructure.dll
