@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0p1Y/xrJInV/IoQXUSuNIUqBg62J6s+HlEzlVFitjpnz9rBBjL3dSCw8R9JysKE9UsIJbp6Odd0H5Ks+lBgbqw==",
+  "dgSpecHash": "C1Wm5dQASLy87JZ3fbImzaTrkDk87OAP6I9TZvTqQFJbJVWJ7jwgafCFl7I8+IHqUdhet9NvPmslbbGiBdE3Sg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Api\\ETAppApi.Api.csproj",
+  "projectFilePath": "D:\\clones\\ET\\ETAppApi\\ETAppApi.Api\\ETAppApi.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

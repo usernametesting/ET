@@ -32,6 +32,7 @@ namespace ETAppApi.Persistence.Repostories
         public IQueryable<TEntity> GetAll() =>
             entity;
 
-
+        public async Task SaveAsync() =>
+     await context.SaveChangesAsync();
     }
 }

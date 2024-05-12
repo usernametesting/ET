@@ -1,70 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\",
+  "WorkspaceRootPath": "D:\\clones\\ET\\ETAppApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EEB419EE-6A6E-4884-8836-B6211E115274}|ETAppApi.Api\\ETAppApi.Api.csproj|c:\\users\\user\\desktop\\et\\etappapi\\etappapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEB419EE-6A6E-4884-8836-B6211E115274}|ETAppApi.Api\\ETAppApi.Api.csproj|d:\\clones\\et\\etappapi\\etappapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB419EE-6A6E-4884-8836-B6211E115274}|ETAppApi.Api\\ETAppApi.Api.csproj|solutionrelative:etappapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\etappapi.persistence\\repostories\\readrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|solutionrelative:etappapi.persistence\\repostories\\readrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\5c4aa4c97679ad6dd2d1f68efe1f07381c14330fda12c3473956b100533ed3fd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F796F3F9-5CB0-47A9-898D-FB9CD7944B08}|Core\\ETAppApi.Application\\ETAppApi.Application.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\core\\etappapi.application\\repostories\\ireadrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F796F3F9-5CB0-47A9-898D-FB9CD7944B08}|Core\\ETAppApi.Application\\ETAppApi.Application.csproj|solutionrelative:core\\etappapi.application\\repostories\\ireadrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\etappapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|solutionrelative:etappapi.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEB419EE-6A6E-4884-8836-B6211E115274}|ETAppApi.Api\\ETAppApi.Api.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\etappapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EEB419EE-6A6E-4884-8836-B6211E115274}|ETAppApi.Api\\ETAppApi.Api.csproj|d:\\clones\\et\\etappapi\\etappapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEB419EE-6A6E-4884-8836-B6211E115274}|ETAppApi.Api\\ETAppApi.Api.csproj|solutionrelative:etappapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\etappapi.persistence\\repostories\\writerepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|solutionrelative:etappapi.persistence\\repostories\\writerepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F796F3F9-5CB0-47A9-898D-FB9CD7944B08}|Core\\ETAppApi.Application\\ETAppApi.Application.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\core\\etappapi.application\\repostories\\iwriterepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F796F3F9-5CB0-47A9-898D-FB9CD7944B08}|Core\\ETAppApi.Application\\ETAppApi.Application.csproj|solutionrelative:core\\etappapi.application\\repostories\\iwriterepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEB419EE-6A6E-4884-8836-B6211E115274}|ETAppApi.Api\\ETAppApi.Api.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\etappapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EEB419EE-6A6E-4884-8836-B6211E115274}|ETAppApi.Api\\ETAppApi.Api.csproj|solutionrelative:etappapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\etappapi.persistence\\contexts\\etappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|solutionrelative:etappapi.persistence\\contexts\\etappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F796F3F9-5CB0-47A9-898D-FB9CD7944B08}|Core\\ETAppApi.Application\\ETAppApi.Application.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\core\\etappapi.application\\repostories\\irepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F796F3F9-5CB0-47A9-898D-FB9CD7944B08}|Core\\ETAppApi.Application\\ETAppApi.Application.csproj|solutionrelative:core\\etappapi.application\\repostories\\irepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE208BC8-35BA-42AD-9370-A3279F07FE0F}|Core\\ETAppApi.Domain\\ETAppApi.Domain.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\core\\etappapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE208BC8-35BA-42AD-9370-A3279F07FE0F}|Core\\ETAppApi.Domain\\ETAppApi.Domain.csproj|solutionrelative:core\\etappapi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE208BC8-35BA-42AD-9370-A3279F07FE0F}|Core\\ETAppApi.Domain\\ETAppApi.Domain.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\core\\etappapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE208BC8-35BA-42AD-9370-A3279F07FE0F}|Core\\ETAppApi.Domain\\ETAppApi.Domain.csproj|solutionrelative:core\\etappapi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE208BC8-35BA-42AD-9370-A3279F07FE0F}|Core\\ETAppApi.Domain\\ETAppApi.Domain.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\core\\etappapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE208BC8-35BA-42AD-9370-A3279F07FE0F}|Core\\ETAppApi.Domain\\ETAppApi.Domain.csproj|solutionrelative:core\\etappapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\etappapi.persistence\\concrets\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A67AEDB6-CC0B-4A0F-9C62-197C76BEAB47}|ETAppApi.Persistence\\ETAppApi.Persistence.csproj|solutionrelative:etappapi.persistence\\concrets\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F796F3F9-5CB0-47A9-898D-FB9CD7944B08}|Core\\ETAppApi.Application\\ETAppApi.Application.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\core\\etappapi.application\\abtractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F796F3F9-5CB0-47A9-898D-FB9CD7944B08}|Core\\ETAppApi.Application\\ETAppApi.Application.csproj|solutionrelative:core\\etappapi.application\\abtractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE208BC8-35BA-42AD-9370-A3279F07FE0F}|Core\\ETAppApi.Domain\\ETAppApi.Domain.csproj|C:\\Users\\user\\Desktop\\ET\\ETAppApi\\core\\etappapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE208BC8-35BA-42AD-9370-A3279F07FE0F}|Core\\ETAppApi.Domain\\ETAppApi.Domain.csproj|solutionrelative:core\\etappapi.domain\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,196 +49,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WriteRepostory.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\Repostories\\WriteRepostory.cs",
-              "RelativeDocumentMoniker": "ETAppApi.Persistence\\Repostories\\WriteRepostory.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\Repostories\\WriteRepostory.cs",
-              "RelativeToolTip": "ETAppApi.Persistence\\Repostories\\WriteRepostory.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\5c4aa4c97679ad6dd2d1f68efe1f07381c14330fda12c3473956b100533ed3fd\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\5c4aa4c97679ad6dd2d1f68efe1f07381c14330fda12c3473956b100533ed3fd\\Program.cs [Read Only]",
+              "ViewState": "AQIAABQAAAAAAAAAAADgvyMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T05:33:44.199Z"
+              "WhenOpened": "2024-05-12T14:32:02.427Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IReadRepostory.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\Repostories\\IReadRepostory.cs",
-              "RelativeDocumentMoniker": "Core\\ETAppApi.Application\\Repostories\\IReadRepostory.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\Repostories\\IReadRepostory.cs",
-              "RelativeToolTip": "Core\\ETAppApi.Application\\Repostories\\IReadRepostory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T05:13:58.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "ETAppApi.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Api\\appsettings.json",
-              "RelativeToolTip": "ETAppApi.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T17:09:23.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ETAppContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\Contexts\\ETAppContext.cs",
-              "RelativeDocumentMoniker": "ETAppApi.Persistence\\Contexts\\ETAppContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\Contexts\\ETAppContext.cs",
-              "RelativeToolTip": "ETAppApi.Persistence\\Contexts\\ETAppContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T17:00:44.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "Core\\ETAppApi.Domain\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "Core\\ETAppApi.Domain\\Entities\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:55:32.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Core\\ETAppApi.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "Core\\ETAppApi.Domain\\Entities\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:55:17.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Api\\Program.cs",
+              "DocumentMoniker": "D:\\clones\\ET\\ETAppApi\\ETAppApi.Api\\Program.cs",
               "RelativeDocumentMoniker": "ETAppApi.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Api\\Program.cs",
+              "ToolTip": "D:\\clones\\ET\\ETAppApi\\ETAppApi.Api\\Program.cs",
               "RelativeToolTip": "ETAppApi.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwC4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:28:33.298Z"
+              "WhenOpened": "2024-05-12T14:18:30.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Api\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "D:\\clones\\ET\\ETAppApi\\ETAppApi.Api\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ETAppApi.Api\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\clones\\ET\\ETAppApi\\ETAppApi.Api\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "ETAppApi.Api\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAxwBwAAAA3AAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAjwEYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:22:57.195Z",
+              "WhenOpened": "2024-05-12T13:30:50.85Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ReadRepostory.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\Repostories\\ReadRepostory.cs",
-              "RelativeDocumentMoniker": "ETAppApi.Persistence\\Repostories\\ReadRepostory.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\Repostories\\ReadRepostory.cs",
-              "RelativeToolTip": "ETAppApi.Persistence\\Repostories\\ReadRepostory.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAkwCAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T05:32:44.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "ETAppApi.Persistence\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\ServiceRegistration.cs",
-              "RelativeToolTip": "ETAppApi.Persistence\\ServiceRegistration.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:27:25.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IWriteRepostory.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\Repostories\\IWriteRepostory.cs",
-              "RelativeDocumentMoniker": "Core\\ETAppApi.Application\\Repostories\\IWriteRepostory.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\Repostories\\IWriteRepostory.cs",
-              "RelativeToolTip": "Core\\ETAppApi.Application\\Repostories\\IWriteRepostory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T05:14:22.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepostory.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\Repostories\\IRepostory.cs",
-              "RelativeDocumentMoniker": "Core\\ETAppApi.Application\\Repostories\\IRepostory.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\Repostories\\IRepostory.cs",
-              "RelativeToolTip": "Core\\ETAppApi.Application\\Repostories\\IRepostory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T05:21:08.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\Concrets\\ProductService.cs",
-              "RelativeDocumentMoniker": "ETAppApi.Persistence\\Concrets\\ProductService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\ETAppApi.Persistence\\Concrets\\ProductService.cs",
-              "RelativeToolTip": "ETAppApi.Persistence\\Concrets\\ProductService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:16:03.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\Abtractions\\IProductService.cs",
-              "RelativeDocumentMoniker": "Core\\ETAppApi.Application\\Abtractions\\IProductService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\Abtractions\\IProductService.cs",
-              "RelativeToolTip": "Core\\ETAppApi.Application\\Abtractions\\IProductService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:13:27.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Core\\ETAppApi.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "Core\\ETAppApi.Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:06:29.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Domain\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Core\\ETAppApi.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Domain\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Core\\ETAppApi.Domain\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:04:58.487Z"
             }
           ]
         }

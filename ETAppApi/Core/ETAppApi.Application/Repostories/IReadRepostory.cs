@@ -13,5 +13,7 @@ namespace ETAppApi.Application.Repostories
         Task<List<TEntity>> GetWhere(Expression<Func<TEntity, bool>> expression);
 
         IQueryable<TEntity> GetAll();
+
+        Task SaveAsync();
     }
 }

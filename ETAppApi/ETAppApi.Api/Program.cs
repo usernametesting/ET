@@ -16,6 +16,19 @@ namespace ETAppApi.Api
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            //builder.Services.AddCors(options =>
+            //{
+            //    options.AddPolicy("AllowSpecificOrigin",
+            //        builder =>
+            //        {
+            //            builder.WithOrigins("http://localhost:4200")
+            //                   .AllowAnyHeader()
+            //                   .AllowAnyMethod();
+            //        });
+            //});
+
+      
+
 
             var app = builder.Build();
 
@@ -29,7 +42,10 @@ namespace ETAppApi.Api
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
+            app.UseCors(x => x
+                       .AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader());
 
             app.MapControllers();
 

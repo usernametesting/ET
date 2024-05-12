@@ -39,5 +39,8 @@ namespace ETAppApi.Persistence.Repostories
             var res = entity.Update(item);
             return res.State == EntityState.Modified;
         }
+
+        public async Task SaveAsync() =>
+         await context.SaveChangesAsync();
     }
 }

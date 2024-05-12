@@ -11,6 +11,7 @@ namespace ETAppApi.Application.Repostories
         Task<bool> AddAsync(TEntity item);
         bool UpdateAsync(TEntity item);
         Task<bool> Remove(TEntity item);
+Task SaveAsync();
 
     }
 }

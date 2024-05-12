@@ -1944,19 +1944,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Infrastructure\\ETAppApi.Infrastructure\\ETAppApi.Infrastructure.csproj",
+      "projectUniqueName": "D:\\clones\\ET\\ETAppApi\\Infrastructure\\ETAppApi.Infrastructure\\ETAppApi.Infrastructure.csproj",
       "projectName": "ETAppApi.Infrastructure",
-      "projectPath": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Infrastructure\\ETAppApi.Infrastructure\\ETAppApi.Infrastructure.csproj",
+      "projectPath": "D:\\clones\\ET\\ETAppApi\\Infrastructure\\ETAppApi.Infrastructure\\ETAppApi.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Infrastructure\\ETAppApi.Infrastructure\\obj\\",
+      "outputPath": "D:\\clones\\ET\\ETAppApi\\Infrastructure\\ETAppApi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1970,8 +1975,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\ETAppApi.Application.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\ET\\ETAppApi\\Core\\ETAppApi.Application\\ETAppApi.Application.csproj"
+            "D:\\clones\\ET\\ETAppApi\\Core\\ETAppApi.Application\\ETAppApi.Application.csproj": {
+              "projectPath": "D:\\clones\\ET\\ETAppApi\\Core\\ETAppApi.Application\\ETAppApi.Application.csproj"
             }
           }
         }
@@ -2006,7 +2011,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
